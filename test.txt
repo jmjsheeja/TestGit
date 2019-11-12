@@ -1,1 +1,3 @@
-This is my test git file
+This is my test git file.
+
+Just a slight test modification.
